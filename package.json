@@ -1,0 +1,16 @@
+{
+  "name": "express-cache-response",
+  "version": "1.0.0",
+  "description": "Middleware to cache Express GET responses in memory",
+  "main": "index.js",
+  "keywords": ["express", "cache", "middleware", "http", "performance"],
+  "author": "Siddhartha Pudasaini",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/express-cache.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  }
+}
